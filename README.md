@@ -13,6 +13,6 @@
 <img src="/home/kazutaka/firstprog/mySite/mentor.png">
 <p>Мой третий параграф.</p>
 <a href="https://www.bing.com/">Посетите поисковую систему Bing</a>
-<img src="/home/kazutaka/firstprog/mySite/bing.png">
+<img src="alexanderOrlov.github.io/bing.png">
 </body>
 </html>
