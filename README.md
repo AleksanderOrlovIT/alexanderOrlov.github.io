@@ -10,7 +10,7 @@
 <img src="/home/kazutaka/firstprog/mySite/google.png">
 <p>Мой второй параграф.</p>
 <a href="https://www.google.com.ua/?hl=ru">Посетите поисковую систему Google</a>
-<img src="/home/kazutaka/firstprog/mySite/mentor.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg">
 <p>Мой третий параграф.</p>
 <a href="https://www.bing.com/">Посетите поисковую систему Bing</a>
 <img src="alexanderOrlov.github.io/bing.png">
